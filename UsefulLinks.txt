@@ -7,3 +7,6 @@ Drug Round Game -> Android -> https://play.google.com/store/apps/details?id=com.
 
 Drug Recovery Game -> Android -> https://play.google.com/store/apps/details?id=com.FocusGames.DrugRecoveryGame&gl=IE
 		      IOS -> https://apps.apple.com/gb/app/drug-recovery/id1471537645
+
+Drug CalculationsGame -> Android -> https://play.google.com/store/apps/details?id=com.FocusGames.DrugRoundCalculations&hl=en
+                         IOS -> https://apps.apple.com/gb/app/drug-calculations-game/id1477851494
